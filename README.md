@@ -1,16 +1,15 @@
-## Hi there 👋
+# Metanow
+Software development agency in Durrës, Albania (since 2022). We build **Odoo ERP** implementations, **Next.js** and **Laravel** web apps, headless e-commerce, AI automation and custom business software for companies across Europe.
 
-<!--
-**Metanow-dev/Metanow-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Website: https://www.metanow.com
+- Services: https://www.metanow.com/services
+- Odoo: https://www.metanow.com/productive-business-solutions-odoo
+- Custom software: https://www.metanow.com/software-development/custom-application-development-services
+- Web development: https://www.metanow.com/marketing/web-development
+- AI development: https://www.metanow.com/artificial-intelligence/ai-development-services
+- Blog: https://www.metanow.com/blog
+- Contact: info@metanow.com
 
-Here are some ideas to get you started:
+**Stack:** Odoo · Python · Next.js · React · Node.js · Laravel · PHP · PostgreSQL · Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[LinkedIn](https://www.linkedin.com/company/metanowcom) · [X](https://x.com/metanowdev) · [YouTube](https://www.youtube.com/@MetanowAgency) · [Instagram](https://www.instagram.com/metanowdev/)
